@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,address,phone,email,ticket_id,created_at
+CUST001,Tom,Harris,12 River Rd Jacksonville FL,904-555-0201,tharris@email.com,TKT-1001,11/01/2024 09:15:00
+CUST002,Emily,Clark,34 Harbor Ave Jacksonville FL,904-555-0202,eclark@email.com,TKT-1002,11/01/2024 10:30:00
+CUST003,Brian,Walker,56 Sunset Blvd Jacksonville FL,904-555-0203,bwalker@email.com,TKT-1003,11/02/2024 08:45:00
+CUST004,Jessica,Allen,78 Lakeview Dr Jacksonville FL,904-555-0204,jallen@email.com,TKT-1004,11/02/2024 11:00:00
+CUST005,Daniel,Scott,90 Hillside Ct Jacksonville FL,904-555-0205,dscott@email.com,TKT-1005,11/03/2024 14:20:00

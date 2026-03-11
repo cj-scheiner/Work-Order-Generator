@@ -1,0 +1,4 @@
+customer_id,first_name,last_name,address,phone,email,ticket_id,created_at
+CUST006,Rachel,Turner,11 Brookside Ln Jacksonville FL,904-555-0301,rturner@email.com,TKT-2001,11/01/2024 09:00:00
+CUST007,Marcus,Green,22 Cliffside Way Jacksonville FL,904-555-0302,mgreen@email.com,TKT-2002,11/01/2024 13:45:00
+CUST008,Natalie,Adams,33 Ridgewood Rd Jacksonville FL,904-555-0303,nadams@email.com,TKT-2003,11/03/2024 10:10:00

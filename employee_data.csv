@@ -1,0 +1,9 @@
+row_id,first_name,last_name,address,phone,email,employee_id,clocked_in,hired_date,certification,tier,notes
+1,James,Carter,101 Maple St Jacksonville FL,904-555-0101,jcarter@email.com,EMP001,true,01/15/2021,N/A,tier1,active
+2,Maria,Lopez,202 Oak Ave Jacksonville FL,904-555-0102,mlopez@email.com,EMP002,true,03/22/2020,N/A,tier1,active
+3,Derek,Thompson,303 Pine Rd Jacksonville FL,904-555-0103,dthompson@email.com,EMP003,false,07/10/2019,N/A,tier1,active
+4,Ashley,Brown,404 Birch Blvd Jacksonville FL,904-555-0104,abrown@email.com,EMP004,true,11/05/2022,N/A,tier1,active
+5,Kevin,Nguyen,505 Cedar Ln Jacksonville FL,904-555-0105,knguyen@email.com,EMP005,true,06/18/2021,N/A,tier1,active
+6,Sandra,Mitchell,606 Elm St Jacksonville FL,904-555-0106,smitchell@email.com,EMP006,true,02/28/2018,CompTIA A+,tier2,active
+7,Robert,Davis,707 Walnut Dr Jacksonville FL,904-555-0107,rdavis@email.com,EMP007,false,09/14/2017,Cisco CCNA,tier2,active
+8,Laura,Wilson,808 Spruce Ave Jacksonville FL,904-555-0108,lwilson@email.com,EMP008,true,04/03/2020,CompTIA Security+,tier2,active
